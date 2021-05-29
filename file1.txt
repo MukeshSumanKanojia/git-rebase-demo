@@ -1,3 +1,5 @@
-This is file coming from developer branches
+This is file
+This is file1 from feature branches
+This is file1 from featureThis is file coming from developer branches
 This is file coming from developer.
 This is
